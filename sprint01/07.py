@@ -1,5 +1,8 @@
 #Media Aritmetica
-nota1 = nota2 = nota3 = -1.0
+nota1 = -1.0
+nota2 = -1.0
+nota3 = -1.0
+
 while(nota1 > 10 or nota1 < 0):
     nota1 = float(input("Digite a nota 1 do aluno: "))
 while(nota2 > 10 or nota2 < 0):
