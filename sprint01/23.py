@@ -1,4 +1,3 @@
-unidade = dezena = centena = milhar = valor = 0.0
 valor = int(input("Digite um valor: "))
 milhar = valor // 1000 % 10
 centena = valor // 100 % 10
